@@ -1,6 +1,6 @@
 # 첫 시작을 준비중인 프론트엔드 개발자 [🧑‍💻kimoony](https://github.com/kimoony) 🇰🇷
 
-@[코드스테이츠](https://github.com/codestates) SEB 28기 [ 구직중.. ]  
+@[코드스테이츠](https://github.com/codestates) SEB 28기  
 <br/>
 
 ### 👀 kimoony 👀
